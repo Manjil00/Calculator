@@ -24,7 +24,9 @@ def clear():
 # Tkinter
 
 root = Tk()
-root.config(bg="black")
+root.config(bg="#0e0d0a")
+root.title("                                                           CALCULATOR    ")
+root.iconbitmap("calcc.ico")
 
 entry_var = StringVar()
 
@@ -36,7 +38,7 @@ myEntry = Entry(
     root,
     textvariable=entry_var,
     fg='black',
-    bg='cyan',
+    bg='#7232a1',
     font=('ariel', 50),
     width=10,
     )
