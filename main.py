@@ -2,7 +2,7 @@ from tkinter import *
 
 var = ''
 
-# functions
+# Function
 
 def press(num):
     global var
@@ -52,7 +52,7 @@ myEntry.grid(
     ipadx=50,
     )
 
-# Button
+# Button Function
 
 button_1 = Button(
     root,
@@ -183,6 +183,8 @@ button_0 = Button(
     command=lambda : press(0),
     )
 button_0.grid(row=4, column=1, padx=5, pady=5)
+
+
 
 button_clear = Button(
     root,
