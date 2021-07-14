@@ -14,7 +14,7 @@ def equal():
     global var
     eql = eval(var)
     entry_var.set(str(eql))
-
+    var=str(eql)
 
 def clear():
     global var
