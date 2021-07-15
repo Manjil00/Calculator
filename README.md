@@ -22,11 +22,11 @@ Calculator is a simple number calculating simulator program that does simple cal
 - To add inverse calculations. <br>
 - To be able to do MOD calculations. <br>
 </p>
+<br>
 
-
-## Presented By: Manjil Maharjan  <br>
-## Student ID: (210220)   <br>
-## Batch 30'B'     <br>
+### Presented By: Manjil Maharjan 
+### Student ID: (210220)  
+### Batch 30'B'  
 
 
 
