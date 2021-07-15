@@ -12,10 +12,14 @@ def press(num):  # Press input function
 
 
 def equal():  # Totalling function
-    global var
-    eql = eval(var)
-    entry_var.set(str(eql))
-    var = str(eql)
+      try:
+        global var
+        eql = eval(var)
+        entry_var.set(str(eql))
+        var = str(eql)
+      except:
+          entry_var.set(print('None'))
+
 
 
 def clear():  # Function to Clears/ Erases the data
@@ -30,9 +34,8 @@ root.config(bg="#0e0d0a")  # color is mid-black
 root.title("                                                           CALCULATOR    ")  # Title equipped
 root.iconbitmap("calcc.ico")  # calculator icon adding
 
-entry_var = StringVar()
-
 # Entry
+entry_var = StringVar()
 
 myEntry = Entry(
     root,

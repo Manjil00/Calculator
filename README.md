@@ -14,6 +14,7 @@ Calculator is a simple number calculating simulator program that does simple cal
 - Can do Exponential and Floor-Divisions. <br>
 - Can store  history values for further calculations. <br>
 - Can also do calculations for the decimal(Float) numbers. <br>
+- Can check for exceptions / Math Error. <br>
 </p>
 
 ## Future Goals: <br>
