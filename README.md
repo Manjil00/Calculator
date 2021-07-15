@@ -24,5 +24,10 @@ Calculator is a simple number calculating simulator program that does simple cal
 </p>
 
 
+## Presented By: Manjil Maharjan  <br>
+## Student ID: (210220)   <br>
+## Batch 30'B'     <br>
+
+
 
 
