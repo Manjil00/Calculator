@@ -25,9 +25,9 @@ Calculator is a simple number calculating simulator program that does simple cal
 </p>
 <br>
 
-### Presented By: Manjil Maharjan 
-### Student ID: (210220)  
-### Batch 30'B'  
+> Presented By: Manjil Maharjan <br>
+Student ID: (210220)  <br>
+Batch 30'B'  
 
 
 
